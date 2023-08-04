@@ -1,1 +1,1 @@
-This is a markdown text
+This is zero_day repository for optional vagrant tasks.
